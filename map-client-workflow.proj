@@ -1,0 +1,28 @@
+[General]
+version=0.16.0
+
+[nodes]
+nodelist\1\connections\size=0
+nodelist\1\identifier=Curation_Helper
+nodelist\1\name=Sparc Curation Helper
+nodelist\1\position=@Variant(\0\0\0\x1a@~p\0\0\0\0\0@k`\0\0\0\0\0)
+nodelist\1\selected=false
+nodelist\1\source_uri=https://github.com/mapclient-plugins/mapclientplugins.sparccurationhelperstep
+nodelist\1\unique_identifier=dd5648c4-3c94-11ec-926a-faffc2364403
+nodelist\2\connections\1\connectedFromIndex=0
+nodelist\2\connections\1\connectedTo=0
+nodelist\2\connections\1\connectedToIndex=0
+nodelist\2\connections\1\selected=false
+nodelist\2\connections\size=1
+nodelist\2\identifier=DatasetDirectory
+nodelist\2\name=Directory Chooser
+nodelist\2\position=@Variant(\0\0\0\x1a@g\x80\0\0\0\0\0@h\x80\0\0\0\0\0)
+nodelist\2\selected=false
+nodelist\2\source_uri=https://github.com/mapclient-plugins/mapclientplugins.directorychooserstep
+nodelist\2\unique_identifier=17642734-3c95-11ec-926a-faffc2364403
+nodelist\size=2
+
+[view]
+rect=@Variant(\0\0\0\x14@$\0\0\0\0\0\0@$\0\0\0\0\0\0@\x93\xe4\0\0\0\0\0@\x8cp\0\0\0\0\0)
+scale=1
+transform=@Variant(\0\0\0Q?\xf0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0?\xf0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0?\xf0\0\0\0\0\0\0)

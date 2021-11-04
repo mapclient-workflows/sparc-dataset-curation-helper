@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Except the following:
+!.gitignore
+!.map-client-workflow.rdf
+!Curation_Helper.conf
+!DatasetDirectory.conf
+!README.rst
+!map-client-workflow.proj
+
